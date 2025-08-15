@@ -6,7 +6,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-Desenvolvedor Full Stack e Cientista de Dados apaixonado por tecnologia e inovação. Baseado em Jaguaribe, Ceará, Brasil, combino habilidades técnicas sólidas com criatividade para criar soluções digitais impactantes.
+Desenvolvedor Full Stack e Cientista de Dados apaixonado por tecnologia e inovação. Baseado em Fortaleza, Ceará, Brasil, combino habilidades técnicas sólidas com criatividade para criar soluções digitais impactantes.
 
 - 🎯 **Especialização**: Desenvolvimento Full Stack & Data Science
 - 📍 **Localização**: Jaguaribe, Ceará, Brasil  
