@@ -9,7 +9,7 @@
 Desenvolvedor Full Stack e Cientista de Dados apaixonado por tecnologia e inovação. Baseado em Fortaleza, Ceará, Brasil, combino habilidades técnicas sólidas com criatividade para criar soluções digitais impactantes.
 
 - 🎯 **Especialização**: Desenvolvimento Full Stack & Data Science
-- 📍 **Localização**: Jaguaribe, Ceará, Brasil  
+- 📍 **Localização**: Fortaleza, Ceará, Brasil  
 - 🌟 **GitHub**: [@JoseSilva84](https://github.com/JoseSilva84)
 - 🔗 **Links**: [Linktree](https://linktr.ee/JoseSilva84)
 
