@@ -2,7 +2,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge)](https://github.com/JoseSilva84)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/josé-silva-dev/)
-[![Location](https://img.shields.io/badge/Location-Jaguaribe,%20CE,%20Brasil-green?style=for-the-badge)]()
+[![Location](https://img.shields.io/badge/Location-Fortaleza,%20CE,%20Brasil-green?style=for-the-badge)]()
 
 ## 👨‍💻 Sobre Mim
 
