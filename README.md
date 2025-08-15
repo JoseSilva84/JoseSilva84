@@ -6,7 +6,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-Desenvolvedor Full Stack e Cientista de Dados apaixonado por tecnologia e inovação. Baseado em Fortaleza, Ceará, Brasil, combino habilidades técnicas sólidas com criatividade para criar soluções digitais impactantes.
+Desenvolvedor Full Stack e Cientista de Dados apaixonado por tecnologia e inovação. Baseado em Jaguaribe, Ceará, Brasil, combino habilidades técnicas sólidas com criatividade para criar soluções digitais impactantes.
 
 - 🎯 **Especialização**: Desenvolvimento Full Stack & Data Science
 - 📍 **Localização**: Fortaleza, Ceará, Brasil  
@@ -14,6 +14,37 @@ Desenvolvedor Full Stack e Cientista de Dados apaixonado por tecnologia e inova�
 - 🔗 **Links**: [Linktree](https://linktr.ee/JoseSilva84)
 
 ## 🛠️ Stack Tecnológica
+
+### 📊 Estatísticas de Linguagens
+
+| Linguagem | Proficiência | Projetos | Uso Principal |
+|-----------|--------------|----------|---------------|
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ⭐⭐⭐⭐⭐ 90% | 4+ | Frontend Dinâmico |
+| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | ⭐⭐⭐⭐⭐ 88% | 3+ | Data Science & Backend |
+| ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | ⭐⭐⭐⭐⭐ 92% | 6+ | Estruturação Web |
+| ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | ⭐⭐⭐⭐ 85% | 5+ | Design Responsivo |
+
+### 🔧 Ferramentas & Frameworks
+
+| Categoria | Tecnologia | Nível | Descrição |
+|-----------|------------|-------|-----------|
+| **Data Science** | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) | Expert | Análise de dados interativa |
+| **Data Science** | ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) | Avançado | Manipulação de dados |
+| **Data Science** | ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) | Avançado | Computação científica |
+| **Frontend** | ![CSS Grid](https://img.shields.io/badge/-CSS_Grid-1572B6?style=flat-square&logo=css3&logoColor=white) | Expert | Layout responsivo |
+| **Frontend** | ![Flexbox](https://img.shields.io/badge/-Flexbox-1572B6?style=flat-square&logo=css3&logoColor=white) | Expert | Design flexível |
+| **Controle de Versão** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) | Avançado | Versionamento de código |
+| **Plataforma** | ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) | Avançado | Colaboração e portfólio |
+
+### 📈 Distribuição de Conhecimento
+
+```
+Frontend Development    ████████████████████ 85%
+Data Science & Analytics ██████████████████ 82%
+Backend Development     ████████████ 75%
+UI/UX Design           ██████████ 70%
+DevOps & Deployment    ████████ 65%
+```
 
 ### Frontend
 - **HTML5** - Estruturação semântica moderna
@@ -113,4 +144,4 @@ Estou sempre aberto a novas oportunidades, colaborações e conversas sobre tecn
 
 > *"Transformando ideias em código e dados em insights"* 🚀
 
-**José Silva Filho** | Full Stack Developer & Data Scientist | Jaguaribe, CE, Brasil
+**José Silva Filho** | Full Stack Developer & Data Scientist | Fortaleza, CE, Brasil
