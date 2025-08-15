@@ -107,9 +107,9 @@ DevOps & Deployment    ████████ 65%
 
 ## 🎓 Formação & Cursos
 
-- **Data Science** - Alura
-- **Desenvolvimento Full Stack** - Digital College (Geração Tech)
-- **Desenvolvimento Web** - UTD (Universidade)
+- **Data Science** - Alura One Oracle
+- **Desenvolvimento Full Stack** - Digital College (Geração Tech 2.0)
+- **Desenvolvimento Web** - UTD (Universidade de trabalho Digital)
 - **Análise de Dados** - Projetos práticos e desafios
 
 ## 🌟 Competências Técnicas
