@@ -1,4 +1,4 @@
-# 🚀 José Silva Filho - Full Stack Developer & Data Scientist
+# 🚀 José Silva Filho - Full Stack Developer
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge)](https://github.com/JoseSilva84)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/josé-silva-dev/)
@@ -6,9 +6,9 @@
 
 ## 👨‍💻 Sobre Mim
 
-Desenvolvedor Full Stack e Cientista de Dados apaixonado por tecnologia e inovação. Baseado em Fortaleza, Ceará, Brasil, combino habilidades técnicas sólidas com criatividade para criar soluções digitais impactantes.
+Desenvolvedor Full Stack, às vezes, também um data science, apaixonado por tecnologia e inovação. Morador de Fortaleza, Ceará, Brasil, combino habilidades técnicas sólidas com criatividade para criar soluções digitais impactantes.
 
-- 🎯 **Especialização**: Desenvolvimento Full Stack & Data Science
+- 🎯 **Especialização**: Desenvolvimento Full Stack
 - 🌟 **GitHub**: [@JoseSilva84](https://github.com/JoseSilva84)
 - 🔗 **Links**: [Linktree](https://linktr.ee/JoseSilva84)
 
